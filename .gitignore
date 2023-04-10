@@ -1,0 +1,12 @@
+*.zip
+report.log
+project_01
+.metals
+.vscode
+partition_ga.py
+.idea
+venv
+__pycache__
+aco-tsp.py
+pso-animation.py
+pso-sphere.py
